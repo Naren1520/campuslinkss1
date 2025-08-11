@@ -13,10 +13,5 @@
     "VITE_SUPABASE_URL": "@supabase_url",
     "VITE_SUPABASE_ANON_KEY": "@supabase_anon_key",
     "VITE_OPENAI_API_KEY": "@openai_api_key"
-  },
-  "functions": {
-    "app/api/**/*": {
-      "runtime": "nodejs18.x"
-    }
   }
 }
